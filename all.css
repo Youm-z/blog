@@ -1,0 +1,27 @@
+*{margin: 0;}
+#top{
+	background-color: black;
+	width: 100%;
+	height: 90px;
+	
+}
+#z{
+	/* background-color: yellow; */
+	width: 75%;
+	height: 900px;
+	margin: 0px auto;
+	width: 1580px;
+	height: 720px;
+	background-image: url(../img/b53021d53e4bbb3e6b208066eac7e5eb26a0a46f31747908e.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	
+}
+#x{
+	background-color: aqua;
+	width: 100%;
+	height: 90px;
+}
+
+	
